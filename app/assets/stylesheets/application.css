@@ -13,3 +13,12 @@
  *= require_tree .
  *= require_self
  */
+
+.letters {
+  display: inline;
+  background: blue;
+  color: white;
+  font-size: x-large;
+  column-width: 20px;
+  padding: 2px;
+}
